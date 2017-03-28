@@ -1,0 +1,25 @@
+{
+  "name": "appellomancer",
+  "version": "0.0.0",
+  "description": "find a release name",
+  "main": "lib/appellomancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/therebelrobot/appellomancer.git"
+  },
+  "keywords": [
+    "name",
+    "release",
+    "naming",
+    "releasing"
+  ],
+  "author": "Ozzy Haven <npm@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/appellomancer/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/appellomancer#readme"
+}
